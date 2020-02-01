@@ -1,4 +1,4 @@
-* {
+ {
     outline: 1px solid orange;
 }
 
@@ -159,22 +159,6 @@ li {
     background-color: #131313;
 }
 
-.footer_element {
-
-}
-
-.footer_element ul {
-    padding: 0px;
-}
-
-.footer_element li {
-    color: #888;
-}
-
-.footer_element p {
-    color: #888;
-}
-
 .img_logo1 {
     width: 60px;
     padding: 0px;
@@ -199,6 +183,9 @@ li {
 
 .footer_submenu{
     width: 180px;
+    line-height: 3;
+    color: #888888;
+    margin-top: 40px;
     
 }
 
@@ -206,15 +193,19 @@ li {
     width: 180px;
 }
 
+.grey_color{
+    color: #888;
+    margin-top: 110px;
+}
 
-
-
-
-
-
-
-
-
+.button{
+    border-radius: 50%;
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: yellow;
+    border: 0px;
+}
 
 
 
